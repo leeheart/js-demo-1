@@ -27,6 +27,6 @@ document.onmousemove = function (e) {
   }
 }
 
-div.onmouseup = function(){
+document.onmouseup = function(){
   dragging = false
 }
